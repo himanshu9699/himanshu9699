@@ -1,41 +1,56 @@
-Hi there, I'm **Himanshu Agrawal** 👋
+🚀 ML Engineer | Machine Learning | Generative AI | LLMs
+
 <hr>
-I'm a passionate <b>AI- Engineer</b> with a strong foundation in Computer Science and Artificial Intelligence.
-I graduated from Chitkara University in 2025 with a degree in Computer Science Engineering (CSE) - AI.
-Currently, I'm working as a AI - Engineer at Prescience Decision Solutions, where I contribute to impactful AI-driven projects.
-<br><br>
+🌟 About Me
 
-****🌟 About Me****
+🎓 Education: B.E. in Computer Science with Artificial Intelligence – Chitkara University (2021–2025), CGPA 8.7/10
 
-🎓 Education: B.E. in CSE - AI from Chitkara University (2025)
+💼 Current Role: AI Engineer at Prescience Decision Solutions, Bengaluru
 
-💼 Current Role: AI- Engineer at Prescience Decision Solutions
+🧠 Passionate about building scalable AI systems, LLM applications, and ML pipelines that solve real-world problems
 
-💡 Projects: Contributed to numerous AI projects, with notable work in:
+🏆 Awards & Recognition: Spot Award, L&D Award, IBM Proficiency Badge (watsonx.data), Advanced CV Certification (DeepLearning.AI)
 
-**Face Recognition**: Developed a robust face recognition system leveraging deep learning techniques.<br>
+📌 Patents:
 
-**Movie Recommendation**: Built an intelligent movie recommendation engine using collaborative filtering and content-based filtering methods.
-<br><br>
+Table with Utensil Cleaner – Granted
 
-****🛠️ Skills****
+Height & Blade Adjusting Fan – Filed
 
-**Programming Languages**: Python, SQL
+🛠️ Skills
 
-**Machine Learning**: Supervised & Unsupervised Learning, Model Deployment
+Languages: Python, SQL, JavaScript, C++, Bash
+ML/DL: Scikit-Learn, TensorFlow, PyTorch, XGBoost, LightGBM, HuggingFace
+LLMs: OpenAI, LLaMA 2, LangChain, Prompt Engineering, Promptflow, AutoML, Vertex AI
+Cloud: GCP (Vertex AI, BigQuery), AWS (EC2, S3, Glue), Azure (ADF, Blob, Functions)
+Data & Big Data: ETL/ELT, Apache Beam, Spark, Hive, Hadoop
+DevOps & Tools: Docker, GitHub Actions, PostgreSQL, MongoDB, MySQL, Django, Linux
 
-**Deep Learning**: Neural Networks, CNNs, RNNs
+💡 Featured Projects
 
-**Data Visualization**: Matplotlib, Seaborn, Tableau
+📄 Production-grade Document Parser
+Achieved 95% extraction accuracy using Azure Document Intelligence + NLP, reducing manual processing by 85%.
 
-**Tools & Technologies**: TensorFlow, PyTorch, Scikit-Learn, Git, Docker
-<br><br>
-<hr>
+📘 Enterprise Summarization Pipeline
+Built with GPT-4/Claude-3 + RAG, processing 1000+ page reports in minutes instead of hours.
 
-****📫 Get in Touch****
+🤖 AI Tutoring Chatbot
+Powered by Socratic algorithms + context management, served 10K+ students with 40% improved learning outcomes.
 
-**LinkedIn**: https://linkedin.com/in/himanshu9699
+🍲 Nutri++ – Food Calorie Estimation
+ResNet-50 CNN trained on Food-101 dataset, achieved 87% accuracy; deployed real-time via Flask + OpenCV.
 
-**Email**: himanshu895522@gmail.com
+💬 Enterprise Support Chatbot (LLaMA 2)
+Fine-tuned LLaMA 2-7B with LoRA, deployed with FastAPI + Docker + Redis caching, reducing training time by 60%.
 
-**Website**: https://agrawalhimanshu.in
+📫 Connect with Me
+
+🌐 Portfolio: https://agrawalhimanshu.com
+
+💼 LinkedIn: https://linkedin.com/in/himanshu9699
+
+💻 GitHub: https://github.com/himanshu9699
+
+📧 Email: himanshu895522@gmail.com
+
+🏆 LeetCode: https://leetcode.com/u/himanshu895522
